@@ -1,0 +1,110 @@
+.implementation-steps {
+  text-align: center;
+  padding: 60px 20px;
+  background: #fff;
+  font-family: 'Arial', sans-serif;
+  position: relative;
+}
+
+
+.implementation-steps .pre-title,
+.implementation-steps h2 {
+  text-align: left;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.implementation-steps .pre-title {
+  color: #d13c3c;
+  font-size: 14px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.implementation-steps h2 {
+  font-size: 26px;
+  margin-bottom: 40px;
+  font-weight: 700;
+  color: #222;
+}
+
+
+.steps-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: visible;
+  padding-top: 40px;
+}
+
+
+.steps-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px;
+  position: relative;
+  z-index: 2;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.step {
+  width: 22%;
+  min-width: 240px;
+  position: relative;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.step h3 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.step p {
+  font-size: 14px;
+  color: #444;
+  line-height: 1.4;
+}
+
+
+.step-image {
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+  background: #ffb3b3;
+  border-radius: 55% / 45%;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(251, 203, 203, 255);
+}
+
+.step-image img {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  width: 100%;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
+
+.connector-svg {
+  position: absolute;
+  top: 120px;
+  left: 10%;
+  width: 80%;
+  height: 100px;
+  z-index: 1;
+}
+
+.connector-svg path {
+  stroke: #000;
+  stroke-dasharray: 6, 6;
+  stroke-linecap: round;
+  stroke-width: 2;
+  fill: none;
+}
