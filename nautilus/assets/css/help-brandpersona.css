@@ -133,6 +133,7 @@
   .container {
     flex-direction: column;
     text-align: center;
+
   }
 
   .persona-images {
@@ -149,15 +150,17 @@
   }
 
   .service-box {
-    width: 100%;
+    width: 60%;
     margin-bottom: 20px;
   }
 
   .persona-title {
     font-size: 24px;
+    width: 60%;
   }
 
   .persona-description {
     font-size: 14px;
+    width: 60%;
   }
 }

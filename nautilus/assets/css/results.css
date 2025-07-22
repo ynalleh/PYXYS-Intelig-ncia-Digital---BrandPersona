@@ -81,6 +81,7 @@
 }
 
 @media (max-width: 768px) {
+
   .results-card {
     width: 100%;
     padding: 20px 10px;
