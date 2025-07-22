@@ -11,28 +11,28 @@
 
       <div class="benefits-list">
         <div class="benefit-item">
-          <div class="icon-circle"><i class="fas fa-fingerprint"></i></div>
+          <div class="icon-circle"><i class="fas fa-fingerprint" style="color: #000000;"></i></div>
           <div>
             <h4>Dar vida à sua marca</h4>
             <p>Ter um influenciador virtual multiplica meios de interação com o consumidor</p>
           </div>
         </div>
         <div class="benefit-item">
-          <div class="icon-circle"><i class="fas fa-heart"></i></div>
+          <div class="icon-circle"><i class="fas fa-heart" style="color: #000000;"></i></div>
           <div>
             <h4>Gerar identificação</h4>
             <p>O cliente se reconhece na persona 3D e se relaciona com ela afetivamente</p>
           </div>
         </div>
         <div class="benefit-item">
-          <div class="icon-circle"><i class="fas fa-comment-alt"></i></div>
+          <div class="icon-circle"><i class="fas fa-comment-alt" style="color: #000000;"></i></div>
           <div>
             <h4>Falar a língua do cliente</h4>
             <p>O diálogo da marca com o usuário se torna mais personalizado e acessível</p>
           </div>
         </div>
         <div class="benefit-item">
-          <div class="icon-circle"><i class="fas fa-gem"></i></div>
+          <div class="icon-circle"><i class="fas fa-gem" style="color: #000000;"></i></div>
           <div>
             <h4>Personificar valores</h4>
             <p>A persona 3D é construída sob medida com o que é relevante para a empresa</p>
